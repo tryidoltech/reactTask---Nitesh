@@ -12,3 +12,5 @@ Requirements:
 - Display a list of items in the marketplace. 
 - Allow items to be added to and removed from the cart. 
 - Show the cart's total value and item count in the cart section.
+
+# Demo URI --> https://trydol-task-front.vercel.app/
