@@ -6,7 +6,7 @@ Objective: Create a simple marketplace interface where users can add items to th
 
 Requirements: 
 
-- Use Context API for managing the cart state instead of passing props. 
+- Use Context API for managing the cart state instead of passing props. (Candidate done the task using Redux)
 - Data handling using CRUDCRUD API’s
 - Use Tailwind for designing. 
 - Display a list of items in the marketplace. 
